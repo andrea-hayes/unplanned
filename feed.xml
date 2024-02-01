@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Unplanned</title>
+    <link href="https://andrea-hayes.github.io/unplanned/feed.xml" rel="self" />
+    <link href="https://andrea-hayes.github.io/unplanned" />
+    <updated>2024-02-01T12:29:59-08:00</updated>
+    <author>
+        <name>Andrea</name>
+    </author>
+    <id>https://andrea-hayes.github.io/unplanned</id>
+
+    <entry>
+        <title>Coming to Terms</title>
+        <author>
+            <name>Andrea</name>
+        </author>
+        <link href="https://andrea-hayes.github.io/unplanned/coming-to-terms.html"/>
+        <id>https://andrea-hayes.github.io/unplanned/coming-to-terms.html</id>
+
+        <updated>2024-02-01T12:29:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Going to happen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Going to happen</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Relationship Turmoil</title>
+        <author>
+            <name>Andrea</name>
+        </author>
+        <link href="https://andrea-hayes.github.io/unplanned/relationship-turmoil.html"/>
+        <id>https://andrea-hayes.github.io/unplanned/relationship-turmoil.html</id>
+
+        <updated>2024-02-01T12:29:55-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Strain on marriage, loss of friendships
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Strain on marriage, loss of friendships</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Initial Shock</title>
+        <author>
+            <name>Andrea</name>
+        </author>
+        <link href="https://andrea-hayes.github.io/unplanned/unplanned.html"/>
+        <id>https://andrea-hayes.github.io/unplanned/unplanned.html</id>
+
+        <updated>2024-02-01T12:29:59-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Shock of finding out pregnant
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Shock of finding out pregnant</h1>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Unplanned",
+    "description": "",
+    "home_page_url": "https://andrea-hayes.github.io/unplanned",
+    "feed_url": "https://andrea-hayes.github.io/unplanned/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andrea"
+    },
+    "items": [
+        {
+            "id": "https://andrea-hayes.github.io/unplanned/coming-to-terms.html",
+            "url": "https://andrea-hayes.github.io/unplanned/coming-to-terms.html",
+            "title": "Coming to Terms",
+            "summary": "Going to happen",
+            "content_html": "<p>Going to happen</p>",
+            "author": {
+                "name": "Andrea"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T10:33:47-08:00",
+            "date_modified": "2024-02-01T12:29:49-08:00"
+        },
+        {
+            "id": "https://andrea-hayes.github.io/unplanned/relationship-turmoil.html",
+            "url": "https://andrea-hayes.github.io/unplanned/relationship-turmoil.html",
+            "title": "Relationship Turmoil",
+            "summary": "Strain on marriage, loss of friendships",
+            "content_html": "<p>Strain on marriage, loss of friendships</p>",
+            "author": {
+                "name": "Andrea"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T10:32:59-08:00",
+            "date_modified": "2024-02-01T12:29:55-08:00"
+        },
+        {
+            "id": "https://andrea-hayes.github.io/unplanned/unplanned.html",
+            "url": "https://andrea-hayes.github.io/unplanned/unplanned.html",
+            "title": "Initial Shock",
+            "summary": "Shock of finding out pregnant",
+            "content_html": "<h1>Shock of finding out pregnant</h1>",
+            "author": {
+                "name": "Andrea"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T10:30:13-08:00",
+            "date_modified": "2024-02-01T12:29:59-08:00"
+        }
+    ]
+}

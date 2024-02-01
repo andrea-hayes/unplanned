@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://andrea-hayes.github.io/unplanned/sitemap.xml

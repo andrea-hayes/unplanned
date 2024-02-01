@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://andrea-hayes.github.io/unplanned/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/</loc>
+</url>
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/about.html</loc>
+<lastmod>2024-02-01T12:29:45-08:00</lastmod>
+</url>
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/coming-to-terms.html</loc>
+<lastmod>2024-02-01T12:29:49-08:00</lastmod>
+</url>
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/home.html</loc>
+<lastmod>2024-02-01T12:33:17-08:00</lastmod>
+</url>
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/relationship-turmoil.html</loc>
+<lastmod>2024-02-01T12:29:55-08:00</lastmod>
+</url>
+<url>
+<loc>https://andrea-hayes.github.io/unplanned/unplanned.html</loc>
+<lastmod>2024-02-01T12:29:59-08:00</lastmod>
+</url>
+</urlset>
