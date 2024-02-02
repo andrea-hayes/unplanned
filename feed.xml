@@ -3,69 +3,73 @@
     <title>Unplanned</title>
     <link href="https://andrea-hayes.github.io/unplanned/feed.xml" rel="self" />
     <link href="https://andrea-hayes.github.io/unplanned" />
-    <updated>2024-02-01T12:29:59-08:00</updated>
+    <updated>2024-02-02T13:19:59-08:00</updated>
     <author>
         <name>Andrea</name>
     </author>
     <id>https://andrea-hayes.github.io/unplanned</id>
 
     <entry>
-        <title>Coming to Terms</title>
+        <title>3rd Trimester</title>
         <author>
             <name>Andrea</name>
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/coming-to-terms.html"/>
         <id>https://andrea-hayes.github.io/unplanned/coming-to-terms.html</id>
 
-        <updated>2024-02-01T12:29:49-08:00</updated>
+        <updated>2024-02-02T13:19:59-08:00</updated>
             <summary>
                 <![CDATA[
-                    Going to happen
+                    Coming to Terms
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Going to happen</p>
+                <h1>Coming to Terms</h1>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Relationship Turmoil</title>
+        <title>2nd Trimester</title>
         <author>
             <name>Andrea</name>
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/relationship-turmoil.html"/>
         <id>https://andrea-hayes.github.io/unplanned/relationship-turmoil.html</id>
 
-        <updated>2024-02-01T12:29:55-08:00</updated>
+        <updated>2024-02-02T13:19:43-08:00</updated>
             <summary>
                 <![CDATA[
-                    Strain on marriage, loss of friendships
+                    Relationships Change as My Belly Grows Bigger
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Strain on marriage, loss of friendships</p>
+                <h1>Relationships Change as My Belly Grows Bigger</h1>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Initial Shock</title>
+        <title>1st Trimester</title>
         <author>
             <name>Andrea</name>
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/unplanned.html"/>
         <id>https://andrea-hayes.github.io/unplanned/unplanned.html</id>
 
-        <updated>2024-02-01T12:29:59-08:00</updated>
+        <updated>2024-02-02T13:18:55-08:00</updated>
             <summary>
                 <![CDATA[
-                    Shock of finding out pregnant
+                    What do you mean I'm pregnant? Source: Sexual Health Victoria
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>Shock of finding out pregnant</h1>
+                <h1>What do you mean I'm pregnant? </h1>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LPyOukxyZzI?si=mgf2pC68LJ3uUuDx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Source: Sexual Health Victoria </p>
+<p> </p>
             ]]>
         </content>
     </entry>

@@ -12,44 +12,44 @@
         {
             "id": "https://andrea-hayes.github.io/unplanned/coming-to-terms.html",
             "url": "https://andrea-hayes.github.io/unplanned/coming-to-terms.html",
-            "title": "Coming to Terms",
-            "summary": "Going to happen",
-            "content_html": "<p>Going to happen</p>",
+            "title": "3rd Trimester",
+            "summary": "Coming to Terms",
+            "content_html": "<h1>Coming to Terms</h1>",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:33:47-08:00",
-            "date_modified": "2024-02-01T12:29:49-08:00"
+            "date_modified": "2024-02-02T13:19:59-08:00"
         },
         {
             "id": "https://andrea-hayes.github.io/unplanned/relationship-turmoil.html",
             "url": "https://andrea-hayes.github.io/unplanned/relationship-turmoil.html",
-            "title": "Relationship Turmoil",
-            "summary": "Strain on marriage, loss of friendships",
-            "content_html": "<p>Strain on marriage, loss of friendships</p>",
+            "title": "2nd Trimester",
+            "summary": "Relationships Change as My Belly Grows Bigger",
+            "content_html": "<h1>Relationships Change as My Belly Grows Bigger</h1>",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:32:59-08:00",
-            "date_modified": "2024-02-01T12:29:55-08:00"
+            "date_modified": "2024-02-02T13:19:43-08:00"
         },
         {
             "id": "https://andrea-hayes.github.io/unplanned/unplanned.html",
             "url": "https://andrea-hayes.github.io/unplanned/unplanned.html",
-            "title": "Initial Shock",
-            "summary": "Shock of finding out pregnant",
-            "content_html": "<h1>Shock of finding out pregnant</h1>",
+            "title": "1st Trimester",
+            "summary": "What do you mean I'm pregnant? Source: Sexual Health Victoria",
+            "content_html": "<h1>What do you mean I'm pregnant? </h1>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LPyOukxyZzI?si=mgf2pC68LJ3uUuDx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Source: Sexual Health Victoria </p>\n<p> </p>",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:30:13-08:00",
-            "date_modified": "2024-02-01T12:29:59-08:00"
+            "date_modified": "2024-02-02T13:18:55-08:00"
         }
     ]
 }
