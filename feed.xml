@@ -3,7 +3,7 @@
     <title>Unplanned</title>
     <link href="https://andrea-hayes.github.io/unplanned/feed.xml" rel="self" />
     <link href="https://andrea-hayes.github.io/unplanned" />
-    <updated>2024-02-02T13:19:59-08:00</updated>
+    <updated>2024-02-05T09:44:01-08:00</updated>
     <author>
         <name>Andrea</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/coming-to-terms.html"/>
         <id>https://andrea-hayes.github.io/unplanned/coming-to-terms.html</id>
+        <media:content url="https://andrea-hayes.github.io/unplanned/media/posts/3/IMG_20190502_125621.jpg" medium="image" />
 
-        <updated>2024-02-02T13:19:59-08:00</updated>
+        <updated>2024-02-02T13:48:44-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://andrea-hayes.github.io/unplanned/media/posts/3/IMG_20190502_125621.jpg" alt="" />
                     Coming to Terms
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://andrea-hayes.github.io/unplanned/media/posts/3/IMG_20190502_125621.jpg" class="type:primaryImage" alt="" /></p>
                 <h1>Coming to Terms</h1>
             ]]>
         </content>
@@ -36,15 +39,18 @@
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/relationship-turmoil.html"/>
         <id>https://andrea-hayes.github.io/unplanned/relationship-turmoil.html</id>
+        <media:content url="https://andrea-hayes.github.io/unplanned/media/posts/2/signal-2019-05-02-130047-5.jpg" medium="image" />
 
-        <updated>2024-02-02T13:19:43-08:00</updated>
+        <updated>2024-02-02T13:48:54-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://andrea-hayes.github.io/unplanned/media/posts/2/signal-2019-05-02-130047-5.jpg" alt="" />
                     Relationships Change as My Belly Grows Bigger
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://andrea-hayes.github.io/unplanned/media/posts/2/signal-2019-05-02-130047-5.jpg" class="type:primaryImage" alt="" /></p>
                 <h1>Relationships Change as My Belly Grows Bigger</h1>
             ]]>
         </content>
@@ -56,19 +62,22 @@
         </author>
         <link href="https://andrea-hayes.github.io/unplanned/unplanned.html"/>
         <id>https://andrea-hayes.github.io/unplanned/unplanned.html</id>
+        <media:content url="https://andrea-hayes.github.io/unplanned/media/posts/1/signal-2019-05-02-130047.jpg" medium="image" />
 
-        <updated>2024-02-02T13:18:55-08:00</updated>
+        <updated>2024-02-05T09:44:01-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://andrea-hayes.github.io/unplanned/media/posts/1/signal-2019-05-02-130047.jpg" alt="" />
                     What do you mean I'm pregnant? Source: Sexual Health Victoria
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://andrea-hayes.github.io/unplanned/media/posts/1/signal-2019-05-02-130047.jpg" class="type:primaryImage" alt="" /></p>
                 <h1>What do you mean I'm pregnant? </h1>
 <p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LPyOukxyZzI?si=mgf2pC68LJ3uUuDx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<p>Source: Sexual Health Victoria </p>
+<p>Source: <a href="https://www.youtube.com/@sexualhealthvictoria3895" target="_blank" rel="noopener noreferrer">Sexual Health Victoria</a> </p>
 <p> </p>
             ]]>
         </content>

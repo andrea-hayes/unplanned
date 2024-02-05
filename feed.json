@@ -15,13 +15,14 @@
             "title": "3rd Trimester",
             "summary": "Coming to Terms",
             "content_html": "<h1>Coming to Terms</h1>",
+            "image": "https://andrea-hayes.github.io/unplanned/media/posts/3/IMG_20190502_125621.jpg",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:33:47-08:00",
-            "date_modified": "2024-02-02T13:19:59-08:00"
+            "date_modified": "2024-02-02T13:48:44-08:00"
         },
         {
             "id": "https://andrea-hayes.github.io/unplanned/relationship-turmoil.html",
@@ -29,27 +30,29 @@
             "title": "2nd Trimester",
             "summary": "Relationships Change as My Belly Grows Bigger",
             "content_html": "<h1>Relationships Change as My Belly Grows Bigger</h1>",
+            "image": "https://andrea-hayes.github.io/unplanned/media/posts/2/signal-2019-05-02-130047-5.jpg",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:32:59-08:00",
-            "date_modified": "2024-02-02T13:19:43-08:00"
+            "date_modified": "2024-02-02T13:48:54-08:00"
         },
         {
             "id": "https://andrea-hayes.github.io/unplanned/unplanned.html",
             "url": "https://andrea-hayes.github.io/unplanned/unplanned.html",
             "title": "1st Trimester",
             "summary": "What do you mean I'm pregnant? Source: Sexual Health Victoria",
-            "content_html": "<h1>What do you mean I'm pregnant? </h1>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LPyOukxyZzI?si=mgf2pC68LJ3uUuDx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Source: Sexual Health Victoria </p>\n<p> </p>",
+            "content_html": "<h1>What do you mean I'm pregnant? </h1>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LPyOukxyZzI?si=mgf2pC68LJ3uUuDx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Source: <a href=\"https://www.youtube.com/@sexualhealthvictoria3895\" target=\"_blank\" rel=\"noopener noreferrer\">Sexual Health Victoria</a> </p>\n<p> </p>",
+            "image": "https://andrea-hayes.github.io/unplanned/media/posts/1/signal-2019-05-02-130047.jpg",
             "author": {
                 "name": "Andrea"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:30:13-08:00",
-            "date_modified": "2024-02-02T13:18:55-08:00"
+            "date_modified": "2024-02-05T09:44:01-08:00"
         }
     ]
 }
